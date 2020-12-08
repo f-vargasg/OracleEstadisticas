@@ -1,0 +1,6 @@
+[
+    {
+        "targetName" : "DEV",
+        "connectionString" : "mytest/oracle@pruebas3"
+    }
+]
